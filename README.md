@@ -7,7 +7,7 @@
 
 - 🔭 I’m aspiring full stack web developer.
 - 🌱 I’m currently learning  mern stack
-- 👯 I’m looking to collaborate on frontend and backend projects using mern stack
+- 👯 I’m looking to collaborate on frontend and backend projects related to mern stack
 
 - 💬 Ask me about or share your thoughts on web technologies.
 - 📫 Reach me @ manjeetnandal200@gmail.com
