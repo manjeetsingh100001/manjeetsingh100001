@@ -29,12 +29,14 @@
 <br/>
 <p align="center">
     <a href="https://github.com/manjeetsingh100001/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Navneet Chauhan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetsingh100001&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manjeet singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetsingh100001&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 <p align="center">
+    <a href="https://github.com/manjeetsingh100001/github-readme-streak-stats">
     <img titile="[Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    </a>
+
 </p>
 <p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjeetsingh100001&show_icons=true&theme=radical)
