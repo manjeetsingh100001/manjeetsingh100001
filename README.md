@@ -38,13 +38,14 @@
     </a>
 
 </p>
+<br/>
 <p align="center">
      <a href="https://github.com/manjeetsingh100001/github-readme-streak-stats">
     <img titile="[Manjeets GitHub stats]" src="https://github-readme-stats.vercel.app/api?username=manjeetsingh100001&show_icons=true&theme=radical"/>
     </a>
 </p>
 
-
+<br/>
 ## :heart: Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=manjeetsingh100001">
