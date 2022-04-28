@@ -26,7 +26,13 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
-
+<br/>
+<p align="center">
+    <a href="https://github.com/manjeetsingh100001/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Navneet Chauhan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetsingh100001&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjeetsingh100001&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
