@@ -16,3 +16,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjeetsingh100001&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## :heart: Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=manjeetsingh100001">
+</a>
+<a href="github-link"><img src="https://img.shields.io/github/followers/MrNavneetChauhan?label=Followers&style=social" alt="GitHub Badge"></a>
