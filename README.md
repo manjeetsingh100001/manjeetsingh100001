@@ -39,6 +39,8 @@
 
 </p>
 <p align="center">
+     <a href="https://github.com/manjeetsingh100001/github-readme-streak-stats">
+    <img titile="[Manjeets GitHub stats]" src="https://github-readme-stats.vercel.app/api?username=manjeetsingh100001&show_icons=true&theme=radical"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjeetsingh100001&show_icons=true&theme=radical)
 </p>
 
