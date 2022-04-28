@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m aspiring full stack web developer.
-- 🌱 I’m currently learning  mern stack
+- 🌱 I’m currently learning  mern stack and Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - ⚡ Fun fact **I love music walking and traveling .**
 
@@ -54,6 +54,14 @@
 </p>
 
 <br/>
+
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/manjeetsingh29/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/manjeet__nandal/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
 
 ## :heart: Views and Followers
 
