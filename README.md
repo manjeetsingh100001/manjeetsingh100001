@@ -2,11 +2,8 @@
 
 
 
-
-
-
-- 🔭 I’m aspiring full stack web developer.
-- 🌱 I’m currently learning  mern stack and Data Structures and Algorithms.
+- 🔭 I’m  a full-stack web developer.
+- 🌱 I’m Experienced in MERN stack, Clouds, and Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - ⚡ Fun fact **I love music walking and traveling .**
 
